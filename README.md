@@ -1,1 +1,1 @@
-# coursera-stuff
+# coursera-material
